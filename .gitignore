@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+/storage/
+/page-content/
+/uploads/
+/vendor/
+/node_modules/
+*.log
+*.zip
+*.tar*
+*.sqlite*
+.DS_Store
