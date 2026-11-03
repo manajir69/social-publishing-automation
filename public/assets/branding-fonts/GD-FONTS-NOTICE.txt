@@ -1,0 +1,6 @@
+Branding Symbols GD and Branding Emoji GD are modified derivatives of the
+bundled Noto Sans Symbols 2 and Noto Emoji fonts, distributed under OFL.txt.
+Changes: static default-weight instance for Noto Emoji, supplementary glyph
+aliases in unused BMP private-use slots, and renamed font families.
+The companion fonts are for GD rendering only. Original user/browser Unicode
+text is retained. Rebuild with tools/build-branding-gd-fonts.py (FontTools).
